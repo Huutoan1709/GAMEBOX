@@ -13,7 +13,7 @@
 <p>
   <h3>Cùng với: </h3>
   <ul>
-    <li>Nguyễn Hữu Toàn</li>
+    <li>Nguyễn Văn Cảnh</li>
     <li>Bùi Thị Ngân</li>
     <li>Lê Trung Hiếu</li>
     <li>Nguyễn Y Khoa</li>
